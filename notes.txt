@@ -26,11 +26,14 @@ e.g:
 11. Lists.
 12. Iframe.
 13. Sematic Elements.
+
 14. Entities, Symbols and Emojis.
 15. Forms.
 16. HTML Graphics 
     a. SVG 
     b. Canvas.
+
+    
 17. HTML Media.
     a. video.
     b. audio.
