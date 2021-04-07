@@ -118,3 +118,8 @@ It is a good idea to always include width and height attributes. If height and w
 The <source> element allows you to specify alternative video/audio files which the browser may choose from. The browser will use the first recognized format.
 
 The text between the <video> and </video> / <audio> and </audio> tags will only be displayed in browsers that do not support the <video> element.
+
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
